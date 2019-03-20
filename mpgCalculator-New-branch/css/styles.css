@@ -5,11 +5,11 @@ body {
 }
 h1 {
 font-size: 30px;
-
+color: #00ffff;
 }
-h2 {
+p {
 font-size: 25px;
-
+color: #afeeee;
 }
 .input {
   align-content: center;
