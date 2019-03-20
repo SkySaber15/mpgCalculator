@@ -6,10 +6,25 @@ body {
 h1 {
 font-size: 30px;
 color: #00ffff;
+text-align: center;
 }
 p {
 font-size: 25px;
 color: #afeeee;
+}
+p2 {
+color: white;
+font-size: 25px;
+text-align: center;
+}
+h3 {
+font-size: 30px;
+font-weight: bold;
+}
+h4 {
+font-size: 25px;
+  color: blue;
+  
 }
 .input {
   align-content: center;
